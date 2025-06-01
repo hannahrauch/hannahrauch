@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img alt="Contributions" src="https://raw.githubusercontent.com/jasonl112/jasonl112/output/github-contribution-grid-snake.svg" />
+  <img alt="Contributions" src="https://github.com/hannahrauch/hannahrauch/blob/2ff4a129835290061183cdf9ef3ba8533b5d18d6/github-snake.svg" />
 </div>
 <br/><br/><br/>
 
